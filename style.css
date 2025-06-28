@@ -31,6 +31,11 @@ body {
     transition: background-color 0.3s ease;
 }
 
+section h1,
+article h1,
+nav h1 {
+    font-size: 2.5rem; /* or whatever size fits your design */
+}
 
 .Top-header-container {
     display: flex;
